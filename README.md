@@ -52,7 +52,7 @@ A Kubernetes operator to centralize and display OpenAPI documentation for APIs. 
 ## 💬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simonbombart/)
-[![Email](https://img.shields.io/badge/Email-simon@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bombart.simon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-bombart.simon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bombart.simon@gmail.com)
 
 ---
 
